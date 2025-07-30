@@ -1,17 +1,17 @@
-# 💫 About Me:
-I’m a Full‑Stack Web & Desktop Developer passionate about creating applications that combine solid back‑end logic with clean, user‑friendly interfaces.<br><br>
-Notable Projects:<br><br>
+# 🧑‍💻 About Me:
+I’m a Full‑Stack Web & Desktop Developer passionate about creating applications that combine solid back‑end logic with clean and user‑friendly interfaces.<br><br>
+<b>Notable Projects:</b><br><br>
 MyIMage (ASP.NET Core MVC) → Print ordering system with image uploads, shopping cart, secure checkout, and an admin dashboard powered by EF Core & Microsoft Identity.<br><br>
 Inventory Management System (C# WinForms) → Desktop app with barcode scanning, stock alerts, sales charts, and role‑based access control.<br><br>
 Courier Management Systems (PHP Web + C# WinForms) → Role‑based courier platforms with secure authentication, parcel status tracking, and CRUD functionality.<br><br>
 Vel‑Vet Vows & A1 Uniform Websites → Responsive front‑end UIs using HTML, CSS, JavaScript, Bootstrap, and modern libraries.<br><br>
 
-My Goal:<br>
+<b>My Goal:</b><br>
 Deliver scalable, reliable, and secure web and desktop solutions while continuously growing as a professional .NET & Full‑Stack Developer.
 
 
 
-## 🌐 Socials:
+## 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rehman-750208312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrehman2005314@gmail.com) 
 
 # 💻 Tech Stack:
