@@ -1,5 +1,20 @@
 # 💫 About Me:
-I’m a 3rd‑semester Software Engineering student at Bahria University and a Web & Software Development trainee at Aptech. I build full‑stack web and Windows desktop apps that pair solid back‑end logic with clean, user‑friendly interfaces.<br><br>Notable Projects:<br><br>Courier Management System (PHP web + C# WinForms) with secure, role‑based dashboards<br><br>Inventory Management System (C# WinForms) featuring barcode scanning, stock alerts, and chart reports<br><br>Velvet Vows event‑management site and A1 Uniform e‑commerce UI (HTML, CSS, JS, Bootstrap)<br><br>Tech Toolkit:<br>ASP.NET Core, .NET Framework (Windows Forms), C#, PHP, Java, MySQL/SQL Server, JavaScript, Bootstrap.<br><br>My Goal:<br>Keep turning real‑world problems into reliable web and desktop solutions while growing as a full‑stack developer.
+# 💫 About Me:
+I’m a Full‑Stack Web & Desktop Developer passionate about creating applications that combine solid back‑end logic with clean, user‑friendly interfaces.<br><br>
+Currently pursuing Software Engineering at Bahria University (3rd Semester) and a Diploma in Web & Software Development at Aptech (4th Semester).<br><br>
+
+Notable Projects:<br><br>
+MyIMage (ASP.NET Core MVC) → Print ordering system with image uploads, shopping cart, secure checkout, and an admin dashboard powered by EF Core & Microsoft Identity.<br><br>
+Inventory Management System (C# WinForms) → Desktop app with barcode scanning, stock alerts, sales charts, and role‑based access control.<br><br>
+Courier Management Systems (PHP Web + C# WinForms) → Role‑based courier platforms with secure authentication, parcel status tracking, and CRUD functionality.<br><br>
+Vel‑Vet Vows & A1 Uniform Websites → Responsive front‑end UIs using HTML, CSS, JavaScript, Bootstrap, and modern libraries.<br><br>
+
+Tech Toolkit:<br>
+ASP.NET Core MVC, EF Core, Microsoft Identity, C#, .NET Framework (Windows Forms), SQL Server, PHP, MySQL, JavaScript, Bootstrap, Java, OOP.<br><br>
+
+My Goal:<br>
+Deliver scalable, reliable, and secure web and desktop solutions while continuously growing as a professional .NET & Full‑Stack Developer.
+
 
 
 ## 🌐 Socials:
