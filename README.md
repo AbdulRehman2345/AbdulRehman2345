@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 I’m a Full‑Stack Web & Desktop Developer passionate about creating applications that combine solid back‑end logic with clean, user‑friendly interfaces.<br><br>
 Currently pursuing Software Engineering at Bahria University (3rd Semester) and a Diploma in Web & Software Development at Aptech (4th Semester).<br><br>
 
