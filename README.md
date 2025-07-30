@@ -1,4 +1,4 @@
-# 🧑‍💻 About Me:
+# 🧑‍💻 About Me
 I’m a Full‑Stack Web & Desktop Developer passionate about creating applications that combine solid back‑end logic with clean and user‑friendly interfaces.<br><br>
 <b>Notable Projects</b><br>
 MyIMage (ASP.NET Core MVC) → Print ordering system with image uploads, shopping cart, secure checkout, and an admin dashboard powered by EF Core & Microsoft Identity.<br><br>
@@ -6,7 +6,7 @@ Inventory Management System (C# WinForms) → Desktop app with barcode scanning,
 Courier Management Systems (PHP Web + C# WinForms) → Role‑based courier platforms with secure authentication, parcel status tracking, and CRUD functionality.<br><br>
 Vel‑Vet Vows & A1 Uniform Websites → Responsive front‑end UIs using HTML, CSS, JavaScript, Bootstrap, and modern libraries.<br><br>
 
-<b>My Goal:</b><br>
+<b>My Goal</b><br>
 Deliver scalable, reliable, and secure web and desktop solutions while continuously growing as a professional .NET & Full‑Stack Developer.
 
 
