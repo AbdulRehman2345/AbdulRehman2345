@@ -1,107 +1,106 @@
 # Abdul Rehman
 
-Full-Stack Software Engineer specializing in scalable web application development, REST API architecture, and applied Artificial Intelligence. I build production-grade systems across the MERN and .NET ecosystems, and I engineer solutions at the intersection of software development and machine learning.
+### Software Engineer | Full-Stack Development | AI Data & Model Strategy
 
-I approach engineering with a simple standard: build it right, not just fast. That means clean architecture, maintainable code, and systems designed to scale.
+I’m a Software Engineer focused on building full-stack applications, backend systems, and AI-powered solutions.
 
----
+My experience spans frontend and backend development, REST API architecture, database design, .NET and JavaScript ecosystems, and applied Artificial Intelligence. I have also gained professional experience contributing to real-world software and AI products in a remote, US-based engineering environment.
 
-## About Me
+Currently, my focus is on **Python, Machine Learning, Data Analysis, Large Language Models, and understanding how data and model strategy influence the reliability of AI systems**.
 
-I am a results-driven Software Engineer with hands-on, professional experience delivering full-stack web applications, backend systems, and AI-integrated products in real, production environments. My core strength lies in owning a problem end-to-end — from database design and API architecture to deployment — across both web and desktop platforms.
-
-I am actively expanding my expertise in Artificial Intelligence and Data Science, with focused work in Python, Machine Learning, Large Language Models (LLMs), Natural Language Processing, and Generative AI. I am committed to mastering the full pipeline of intelligent systems: from data evaluation and model strategy to real-world deployment.
+> I believe good engineering is not only about building fast — it is about building the right thing, the right way.
 
 ---
 
 ## Tech Stack
 
-**Frontend Development**
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
-**Backend Development**
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,php,laravel" />
 </p>
 
-**Databases**
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase" />
 </p>
 
-**Artificial Intelligence, Machine Learning & Data**
+### AI, Machine Learning & Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
-- Python for Data Analysis and Machine Learning
-- Machine Learning & Deep Learning Fundamentals
-- Large Language Models (LLMs) & Generative AI
-- Natural Language Processing (NLP)
-- Data Evaluation, Model Strategy & Synthetic Data
-- Hugging Face, OpenRouter, Whisper, ML.NET
+* Data Analysis & Exploratory Data Analysis
+* Statistical Analysis
+* Machine Learning
+* Deep Learning & Neural Networks
+* Natural Language Processing
+* Large Language Models & Generative AI
+* Synthetic Data & Data Evaluation
+* ML.NET
+* Hugging Face
+* OpenRouter
+* Whisper
 
-**Tools & Development Practices**
+### Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio" />
 </p>
 
-- REST API Design & Integration
-- Entity Framework Core, SQL Server, ADO.NET
-- Agile Collaboration & Cross-Functional Remote Teamwork
-- Debugging, Version Control, Object-Oriented Programming
+* REST API Design & Integration
+* ASP.NET Core & Entity Framework Core
+* SQL Server
+* Windows Forms
+* n8n
+* Object-Oriented Programming
+* Version Control
 
 ---
 
 ## Professional Experience
 
-**Web & Mobile Application Developer — Internship (Remote)**
-*US-Based Technology Company*
+**Web & Mobile App Developer Intern — ADollarClass Inc.**
+*Remote · September 2025 – March 2026*
 
-- Led frontend and backend development on a complete production website revamp, modernizing platform architecture, UI consistency, and backend performance.
-- Designed and integrated RESTful APIs connecting a live web platform to an AI-powered assistant, enabling real-time communication between application and backend AI services.
-- Delivered independently within a fully remote, cross-functional, US-based team spanning multiple time zones, consistently meeting deadlines while upholding performance and usability standards.
-- Recognized for strong problem-solving ability, technical reliability, and effective collaboration in a fast-paced development cycle.
-
----
-
-## Currently Focused On
-
-- Advancing my expertise in Machine Learning, Data Analysis, and Applied AI
-- Building hands-on experience with Large Language Models and Generative AI applications
-- Exploring data readiness, model evaluation, and AI strategy as a foundation for reliable AI systems
-- Continuing to ship scalable, production-quality full-stack applications
+* Contributed to a full website revamp across frontend and backend development.
+* Built APIs connecting the web platform with the company's AI assistant.
+* Worked independently within a fully remote team across multiple US time zones.
+* Managed deadlines, solved technical problems, and delivered features in a fast-paced development environment.
 
 ---
 
-## Core Focus Areas
+## Current Focus
 
-**Full-Stack Engineering** — Designing and building complete web applications with modern frontend frameworks, robust backend APIs, relational and non-relational databases, and scalable architecture.
-
-**Artificial Intelligence & Intelligent Systems** — Working with Large Language Models, Generative AI, machine learning workflows, and NLP to build software that goes beyond functionality into intelligence.
-
-**Data & Machine Learning** — Applying data analysis, statistical evaluation, and model performance assessment to ensure AI systems are built on a solid, reliable data foundation.
+* Applied Machine Learning and Data Analysis
+* Large Language Models and Generative AI
+* Data readiness and evaluation for AI systems
+* Model strategy and performance
+* Synthetic data generation and quality evaluation
+* Scalable full-stack software systems
 
 ---
 
 ## Projects
 
-My repositories reflect ongoing work across:
+My work covers:
 
-- AI-powered applications and LLM integrations
-- Full-stack web applications (MERN and .NET)
-- REST API systems and third-party service integrations
-- Desktop and web-based business management systems
-- Data analysis and machine learning experiments
+* Full-stack web applications
+* REST API systems
+* AI-powered applications and LLM integrations
+* .NET web and desktop applications
+* Business management systems
+* Data analysis and machine learning projects
 
-Explore my repositories below to see the technologies and systems I have built.
+Explore my repositories to see what I’m building.
 
 ---
 
@@ -118,4 +117,4 @@ Explore my repositories below to see the technologies and systems I have built.
 
 ---
 
-*Building reliable software and intelligent systems, one project at a time.*
+*Building reliable software and exploring intelligent systems.*
