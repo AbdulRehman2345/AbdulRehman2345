@@ -1,137 +1,121 @@
-# Hi, I'm Abdul Rehman 👋
+# Abdul Rehman
 
-### Software Engineer | Full Stack Development | AI Systems & LLMs
+Full-Stack Software Engineer specializing in scalable web application development, REST API architecture, and applied Artificial Intelligence. I build production-grade systems across the MERN and .NET ecosystems, and I engineer solutions at the intersection of software development and machine learning.
 
-I’m a Software Engineer focused on building full-stack applications, backend systems, and AI-powered solutions.
-
-My experience spans modern web development, .NET application development, REST APIs, databases, data analysis, machine learning, and LLM-based systems. I enjoy working on projects that combine reliable software engineering with intelligent technologies.
-
-I have also gained professional experience working remotely with a US-based company, contributing to real-world software and AI-related products. During this experience, I led frontend and backend development for a full website revamp, built REST APIs connecting the web platform with an AI assistant, and worked independently in a fast-paced remote team across multiple US time zones.
-
-Currently, I am focused on expanding my work in **AI systems, machine learning, data analysis, synthetic data, and LLM applications** while continuing to build scalable full-stack software.
+I approach engineering with a simple standard: build it right, not just fast. That means clean architecture, maintainable code, and systems designed to scale.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### Frontend Development
+I am a results-driven Software Engineer with hands-on, professional experience delivering full-stack web applications, backend systems, and AI-integrated products in real, production environments. My core strength lies in owning a problem end-to-end — from database design and API architecture to deployment — across both web and desktop platforms.
+
+I am actively expanding my expertise in Artificial Intelligence and Data Science, with focused work in Python, Machine Learning, Large Language Models (LLMs), Natural Language Processing, and Generative AI. I am committed to mastering the full pipeline of intelligent systems: from data evaluation and model strategy to real-world deployment.
+
+---
+
+## Tech Stack
+
+**Frontend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### Backend Development
+**Backend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,php,laravel" />
 </p>
 
-### Databases
+**Databases**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase" />
 </p>
 
-### AI, Machine Learning & Data
+**Artificial Intelligence, Machine Learning & Data**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
-* Python for Data Analysis and Machine Learning
-* Exploratory Data Analysis
-* Statistical Analysis
-* Machine Learning
-* Deep Learning & Neural Networks
-* Natural Language Processing
-* Transformers & Generative AI
-* Large Language Models (LLMs)
-* Synthetic Data Generation & Evaluation
-* ML.NET
-* OpenRouter
-* Whisper
-* Hugging Face
+- Python for Data Analysis and Machine Learning
+- Machine Learning & Deep Learning Fundamentals
+- Large Language Models (LLMs) & Generative AI
+- Natural Language Processing (NLP)
+- Data Evaluation, Model Strategy & Synthetic Data
+- Hugging Face, OpenRouter, Whisper, ML.NET
 
-### Development Tools & Platforms
+**Tools & Development Practices**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio" />
 </p>
 
-* REST APIs
-* API Integration
-* n8n
-* Entity Framework Core
-* SQL Server
-* Windows Forms
-* ASP.NET Core MVC
+- REST API Design & Integration
+- Entity Framework Core, SQL Server, ADO.NET
+- Agile Collaboration & Cross-Functional Remote Teamwork
+- Debugging, Version Control, Object-Oriented Programming
 
 ---
 
-## 💼 Experience
+## Professional Experience
 
-### Web & Mobile App Developer Intern — US-Based Company
+**Web & Mobile Application Developer — Internship (Remote)**
+*US-Based Technology Company*
 
-* Led frontend and backend development during a complete website revamp.
-* Built REST APIs connecting the web platform with the company's AI assistant.
-* Contributed to real-world software and AI-powered product development.
-* Worked independently in a fully remote, fast-paced team across multiple US time zones.
-* Managed deadlines, solved technical problems, and contributed across different areas of the product.
-
----
-
-## 🚀 What I'm Currently Working On
-
-* AI-powered software systems
-* LLM integrations and intelligent applications
-* Synthetic data generation and quality evaluation
-* Machine learning and data analysis
-* Full-stack applications and scalable backend systems
-* Exploring the intersection of software engineering and AI
+- Led frontend and backend development on a complete production website revamp, modernizing platform architecture, UI consistency, and backend performance.
+- Designed and integrated RESTful APIs connecting a live web platform to an AI-powered assistant, enabling real-time communication between application and backend AI services.
+- Delivered independently within a fully remote, cross-functional, US-based team spanning multiple time zones, consistently meeting deadlines while upholding performance and usability standards.
+- Recognized for strong problem-solving ability, technical reliability, and effective collaboration in a fast-paced development cycle.
 
 ---
 
-## 📌 Featured Areas
+## Currently Focused On
 
-### Full-Stack Engineering
-
-Building complete web applications with modern frontend frameworks, backend APIs, databases, and cloud-ready architectures.
-
-### AI & Intelligent Systems
-
-Exploring LLM applications, AI integrations, machine learning workflows, NLP, and intelligent software systems.
-
-### Data & Machine Learning
-
-Working with data analysis, statistical evaluation, machine learning models, synthetic data, and model performance.
+- Advancing my expertise in Machine Learning, Data Analysis, and Applied AI
+- Building hands-on experience with Large Language Models and Generative AI applications
+- Exploring data readiness, model evaluation, and AI strategy as a foundation for reliable AI systems
+- Continuing to ship scalable, production-quality full-stack applications
 
 ---
 
-## 📂 Projects
+## Core Focus Areas
 
-Some of the areas and projects I have worked on include:
+**Full-Stack Engineering** — Designing and building complete web applications with modern frontend frameworks, robust backend APIs, relational and non-relational databases, and scalable architecture.
 
-* AI-powered applications and LLM integrations
-* Full-stack web applications
-* REST API systems
-* .NET desktop and web applications
-* Inventory and billing management systems
-* Courier management systems
-* Data analysis and machine learning projects
-* Synthetic data quality evaluation systems
+**Artificial Intelligence & Intelligent Systems** — Working with Large Language Models, Generative AI, machine learning workflows, and NLP to build software that goes beyond functionality into intelligence.
 
-You can explore my repositories to see the projects I have built and the technologies I have worked with.
+**Data & Machine Learning** — Applying data analysis, statistical evaluation, and model performance assessment to ensure AI systems are built on a solid, reliable data foundation.
 
 ---
 
-## 📫 Connect With Me
+## Projects
+
+My repositories reflect ongoing work across:
+
+- AI-powered applications and LLM integrations
+- Full-stack web applications (MERN and .NET)
+- REST API systems and third-party service integrations
+- Desktop and web-based business management systems
+- Data analysis and machine learning experiments
+
+Explore my repositories below to see the technologies and systems I have built.
+
+---
+
+## Connect
 
 <p>
   <a href="https://github.com/AbdulRehman2345">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/abdul-rehman-750208312">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-> Building software, exploring intelligent systems, and continuously improving how technology solves real-world problems.
+*Building reliable software and intelligent systems, one project at a time.*
