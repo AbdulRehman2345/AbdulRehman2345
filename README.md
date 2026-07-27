@@ -1,27 +1,137 @@
-# 🧑‍💻 About Me
-I’m a Full‑Stack Web & Desktop Developer passionate about creating applications that combine solid back‑end logic with clean and user‑friendly interfaces.<br><br>
-<b>Notable Projects</b><br>
-MyIMage (ASP.NET Core MVC) → Print ordering system with image uploads, shopping cart, secure checkout, and an admin dashboard powered by EF Core & Microsoft Identity.<br><br>
-Inventory Management System (C# WinForms) → Desktop app with barcode scanning, stock alerts, sales charts, and role‑based access control.<br><br>
-Courier Management Systems (PHP Web + C# WinForms) → Role‑based courier platforms with secure authentication, parcel status tracking, and CRUD functionality.<br><br>
-Vel‑Vet Vows & A1 Uniform Websites → Responsive front‑end UIs using HTML, CSS, JavaScript, Bootstrap, and modern libraries.<br><br>
+# Hi, I'm Abdul Rehman 👋
 
-<b>My Goal</b><br>
-Deliver scalable, reliable, and secure web and desktop solutions while continuously growing as a professional .NET & Full‑Stack Developer.
+### Software Engineer | Full Stack Development | AI Systems & LLMs
 
+I’m a Software Engineer focused on building full-stack applications, backend systems, and AI-powered solutions.
 
+My experience spans modern web development, .NET application development, REST APIs, databases, data analysis, machine learning, and LLM-based systems. I enjoy working on projects that combine reliable software engineering with intelligent technologies.
 
-## 🔗 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rehman-750208312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrehman2005314@gmail.com) 
+I have also gained professional experience working remotely with a US-based company, contributing to real-world software and AI-related products. During this experience, I led frontend and backend development for a full website revamp, built REST APIs connecting the web platform with an AI assistant, and worked independently in a fast-paced remote team across multiple US time zones.
 
-# 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AbdulRehman2345&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AbdulRehman2345&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman2345&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently, I am focused on expanding my work in **AI systems, machine learning, data analysis, synthetic data, and LLM applications** while continuing to build scalable full-stack software.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbdulRehman2345&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,cs,dotnet" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase" />
+</p>
+
+### AI, Machine Learning & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+* Python for Data Analysis and Machine Learning
+* Exploratory Data Analysis
+* Statistical Analysis
+* Machine Learning
+* Deep Learning & Neural Networks
+* Natural Language Processing
+* Transformers & Generative AI
+* Large Language Models (LLMs)
+* Synthetic Data Generation & Evaluation
+* ML.NET
+* OpenRouter
+* Whisper
+* Hugging Face
+
+### Development Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio" />
+</p>
+
+* REST APIs
+* API Integration
+* n8n
+* Entity Framework Core
+* SQL Server
+* Windows Forms
+* ASP.NET Core MVC
+
+---
+
+## 💼 Experience
+
+### Web & Mobile App Developer Intern — US-Based Company
+
+* Led frontend and backend development during a complete website revamp.
+* Built REST APIs connecting the web platform with the company's AI assistant.
+* Contributed to real-world software and AI-powered product development.
+* Worked independently in a fully remote, fast-paced team across multiple US time zones.
+* Managed deadlines, solved technical problems, and contributed across different areas of the product.
+
+---
+
+## 🚀 What I'm Currently Working On
+
+* AI-powered software systems
+* LLM integrations and intelligent applications
+* Synthetic data generation and quality evaluation
+* Machine learning and data analysis
+* Full-stack applications and scalable backend systems
+* Exploring the intersection of software engineering and AI
+
+---
+
+## 📌 Featured Areas
+
+### Full-Stack Engineering
+
+Building complete web applications with modern frontend frameworks, backend APIs, databases, and cloud-ready architectures.
+
+### AI & Intelligent Systems
+
+Exploring LLM applications, AI integrations, machine learning workflows, NLP, and intelligent software systems.
+
+### Data & Machine Learning
+
+Working with data analysis, statistical evaluation, machine learning models, synthetic data, and model performance.
+
+---
+
+## 📂 Projects
+
+Some of the areas and projects I have worked on include:
+
+* AI-powered applications and LLM integrations
+* Full-stack web applications
+* REST API systems
+* .NET desktop and web applications
+* Inventory and billing management systems
+* Courier management systems
+* Data analysis and machine learning projects
+* Synthetic data quality evaluation systems
+
+You can explore my repositories to see the projects I have built and the technologies I have worked with.
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/AbdulRehman2345">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> Building software, exploring intelligent systems, and continuously improving how technology solves real-world problems.
