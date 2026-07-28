@@ -1,9 +1,19 @@
 # Hi, I'm Abdul Rehman
 
-Most AI projects fail before the model even gets built I work on the part before that.
+**Most AI projects don't fail at the model stage , they fail long before that and that's the stage I care about.**
 
-I started out shipping full-stack web applications end-to-end, from frontend to backend to database design, in real production environments, and that foundation is still what I build on today. Over the past year, my focus has shifted toward making sure the data and approach are actually sound before a model gets built at all — evaluating data quality, model strategy and AI system reliability with the same rigor.
-I bring to shipping code. I work with Python, Pandas and NumPy for data analysis and I'm currently focused on machine learning, deep learning, neural networks, NLP, generative AI, and large language models, including RAG and fine-tuning.
+I'm a software engineer and for the past year I've been building and shipping real, production-ready web systems which covers everything from the interface a user sees down to how the database is structured underneath it.
+
+Now, I'm turning my attention to a question most people skip too quickly when building with AI: is this data actually usable and does the approach being used even make sense for it.
+
+**Where my attention goes:**
+
+- Building complete web applications, front to back
+- Applying Python and machine learning to real problems
+- Getting hands-on with large language models
+- Digging into data quality before anything gets trained on it
+
+Somewhere along the way I picked up a simple rule: doing something quickly and doing it correctly aren't the same goal. I hold both my code and my AI work to that same rule.
 
 ## Connect
 
