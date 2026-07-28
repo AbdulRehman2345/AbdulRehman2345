@@ -1,120 +1,42 @@
-# Abdul Rehman
+# Hi, I'm Abdul Rehman
 
-### Software Engineer | Full-Stack Development | AI Data & Model Strategy
-
-I’m a Software Engineer focused on building full-stack applications, backend systems, and AI-powered solutions.
-
-My experience spans frontend and backend development, REST API architecture, database design, .NET and JavaScript ecosystems, and applied Artificial Intelligence. I have also gained professional experience contributing to real-world software and AI products in a remote, US-based engineering environment.
-
-Currently, my focus is on **Python, Machine Learning, Data Analysis, Large Language Models, and understanding how data and model strategy influence the reliability of AI systems**.
-
-> I believe good engineering is not only about building fast — it is about building the right thing, the right way.
-
----
+I started out building full-stack web applications end-to-end — frontend, backend, and database design — and shipping them in real, production environments. That foundation is what I still build on today. Over the past year, my focus has shifted toward a problem most AI work skips past too quickly: making sure the data and approach are actually sound before a model gets built at all. I'm now working at the intersection of solid software engineering and applied AI — using the same rigor I bring to shipping code to evaluate data quality, model strategy, and AI system reliability.
 
 ## Tech Stack
 
-### Frontend
+**Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express" />
 </p>
 
-### Backend
+**Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
 </p>
 
-### Databases
+**Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### AI, Machine Learning & Data
+**AI & Machine Learning**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
-* Data Analysis & Exploratory Data Analysis
-* Statistical Analysis
-* Machine Learning
-* Deep Learning & Neural Networks
-* Natural Language Processing
-* Large Language Models & Generative AI
-* Synthetic Data & Data Evaluation
-* ML.NET
-* Hugging Face
-* OpenRouter
-* Whisper
+- Machine Learning & Applied Data Analysis
+- Large Language Models (LLMs) & Generative AI
+- Natural Language Processing
 
-### Tools & Technologies
+## Where I'm Headed
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio" />
-</p>
-
-* REST API Design & Integration
-* ASP.NET Core & Entity Framework Core
-* SQL Server
-* Windows Forms
-* n8n
-* Object-Oriented Programming
-* Version Control
-
----
-
-## Professional Experience
-
-**Web & Mobile App Developer Intern — ADollarClass Inc.**
-*Remote · September 2025 – March 2026*
-
-* Contributed to a full website revamp across frontend and backend development.
-* Built APIs connecting the web platform with the company's AI assistant.
-* Worked independently within a fully remote team across multiple US time zones.
-* Managed deadlines, solved technical problems, and delivered features in a fast-paced development environment.
-
----
-
-## Current Focus
-
-* Applied Machine Learning and Data Analysis
-* Large Language Models and Generative AI
-* Data readiness and evaluation for AI systems
-* Model strategy and performance
-* Synthetic data generation and quality evaluation
-* Scalable full-stack software systems
-
----
-
-## Projects
-
-My work covers:
-
-* Full-stack web applications
-* REST API systems
-* AI-powered applications and LLM integrations
-* .NET web and desktop applications
-* Business management systems
-* Data analysis and machine learning projects
-
-Explore my repositories to see what I’m building.
-
----
+I'm moving deliberately from full-stack delivery into **AI data and model strategy** — the layer of work that decides whether an AI system is actually trustworthy before it ever gets trained. That means evaluating data quality and readiness, working with synthetic data generation, validating models against real-world edge cases, and thinking critically about what "good data" means for a given problem. I've learned that fast and right aren't the same thing — that standard applies to code, and it applies just as much to the data behind a model.
 
 ## Connect
 
-<p>
-  <a href="https://github.com/AbdulRehman2345">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdul-rehman-750208312">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-*Building reliable software and exploring intelligent systems.*
+[LinkedIn](https://www.linkedin.com/in/abdul-rehman-750208312/)
