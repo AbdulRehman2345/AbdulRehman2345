@@ -1,9 +1,8 @@
 # Hi, I'm Abdul Rehman
 
+**Software Engineer moving into AI Data Readiness & Model Strategy**
 
-I started out building full-stack web applications end-to-end — frontend, backend and database design  and shipping them in production environments. That foundation is what I still build on today. Over the past year, my focus has shifted toward a problem most AI work skips past too quickly: making sure the data and approach are actually sound before a model gets built at all. I'm now working at the intersection of solid software engineering and applied AI — using the same rigor I bring to shipping code to evaluate data quality, model strategy and AI system reliability.
-
-I work across Python, Pandas and NumPy for data analysis, with a growing focus on machine learning, deep learning and neural networks. I'm actively building expertise in natural language processing, generative AI and large language models — including techniques like retrieval-augmented generation (RAG) and fine-tuning — along with the layer of work that comes before any of that: evaluating whether a dataset is genuinely ready for AI, working with synthetic data and deciding which strategy actually fits a given problem rather than defaulting to the most popular one.
+Most AI projects fail before the model even gets built — I work on the part before that. I started out shipping full-stack web applications end-to-end, from frontend to backend to database design, in real production environments, and that foundation is still what I build on today. Over the past year, my focus has shifted toward making sure the data and approach are actually sound before a model gets built at all — evaluating data quality, model strategy, and AI system reliability with the same rigor I bring to shipping code. I work with Python, Pandas, and NumPy for data analysis, and I'm currently learning machine learning, deep learning, neural networks, NLP, generative AI, and large language models, including RAG and fine-tuning.
 
 ## Connect
 
